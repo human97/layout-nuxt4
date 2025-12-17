@@ -15,7 +15,7 @@ const props = defineProps({
         class="gradient-border relative rounded-2xl p-2 lg:p-6 flex flex-col justify-between min-h-[140px] md:min-h-[174px] lg:min-h-[308px]"
     >
         <nuxt-link
-            to="/about"
+            to="/"
             class="absolute top-2 right-2 lg:top-6 lg:right-6"
         >
             <img
