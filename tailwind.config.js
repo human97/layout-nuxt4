@@ -2,8 +2,11 @@
 export default {
   content: [],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        sans: ['HeliosC', 'sans-serif'],
+      },
+    },
   },
   plugins: [],
 }
-
