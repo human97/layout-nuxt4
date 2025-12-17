@@ -1,4 +1,5 @@
-# Адаптивная верстка
+# Адаптивная верстка  
+## [Демонстрация](https://layout-nuxt4.netlify.app/)
 
 Этот проект представляет собой адаптивную верстку, созданную с использованием компонентного подхода на основе макета из Figma.
 
@@ -11,9 +12,8 @@
 - **Язык:** TypeScript
 - **Сборщик:** Vite
 
-## [Демонстрация](https://layout-nuxt4.netlify.app/)
-
-# Responsive Layout
+# Responsive Layout  
+## [Live Demo](https://layout-nuxt4.netlify.app/)
 
 This project is a responsive layout created using a component-based approach based on a Figma design.
 
@@ -25,8 +25,6 @@ This project is a responsive layout created using a component-based approach bas
 - **Styling:** Tailwind CSS, CSS
 - **Language:** TypeScript
 - **Builder:** Vite
-
-## [Live Demo](https://layout-nuxt4.netlify.app/)
 
 
 # Nuxt Minimal Starter
