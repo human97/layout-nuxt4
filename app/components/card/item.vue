@@ -11,9 +11,7 @@ const props = defineProps({
 </script>
 
 <template>
-    <div
-        class="gradient-border relative rounded-2xl p-2 lg:p-6 flex flex-col justify-between min-h-[140px] md:min-h-[174px] lg:min-h-[308px]"
-    >
+    <div class="gradient-border relative rounded-2xl p-2 lg:p-6 flex flex-col justify-between min-h-[140px] md:min-h-[174px] lg:min-h-[308px]">
         <nuxt-link
             to="/"
             class="absolute top-2 right-2 lg:top-6 lg:right-6"
@@ -24,11 +22,10 @@ const props = defineProps({
                 class="size-4 lg:size-12 text-white"
             />
         </nuxt-link>
-        <div class="mt-auto pr-8">
-        <h3 class="text-sm lg:text-2xl leading-[1.2] text-white">
-           {{ card.title }}
-        </h3>
-        </div>
+
+        <h2 class="text-sm lg:text-2xl leading-[1.2] text-white mt-auto md:pr-5 lg:pr-10">
+            {{ card.title }}
+        </h2>
     </div>
 </template>
 
